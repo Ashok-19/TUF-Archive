@@ -1,6 +1,6 @@
 # TUF Archive
 
-A scraper + local web viewer for all **free** content on [takeuforward.org](https://takeuforward.org).
+A scraper + local web viewer for all **free** content on [takeuforward.org](https://takeuforward.org) commonly known as Striver's Sheet.
 
 | Section | What's scraped |
 |---|---|
